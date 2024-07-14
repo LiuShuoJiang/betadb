@@ -1,5 +1,9 @@
 # BetaDB
 
+[![Go workflow](https://github.com/LiuShuoJiang/betadb/actions/workflows/go.yml/badge.svg)](https://github.com/LiuShuoJiang/betadb)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Go Report Card](https://goreportcard.com/badge/github.com/LiuShuoJiang/betadb)](https://goreportcard.com/report/github.com/LiuShuoJiang/betadb)
+
 **BetaDB** is a Key-Value single-machine database storage engine based on the [Bitcask](https://github.com/basho/bitcask) model.
 It also supports some basic Redis commands, and is compatible with the Redis serialization protocol (RESP).
 
