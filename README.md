@@ -1,7 +1,7 @@
 # BetaDB
 
-**BetaDB** is a Key-Value single-machine database storage engine based on the [Bitcask](https://github.com/basho/bitcask) model
-and compatible with Redis data structure.
+**BetaDB** is a Key-Value single-machine database storage engine based on the [Bitcask](https://github.com/basho/bitcask) model.
+It also supports some basic Redis commands, and is compatible with the Redis serialization protocol (RESP).
 
 ## General Features
 
@@ -64,4 +64,4 @@ for read and write operations, along with efficient memory utilization.
 
 ## Disclaimer
 
-This project is not intended for industrial application, and is for academic and research use only.
+This project is not intended for industrial application, and is for academic or research use only.
